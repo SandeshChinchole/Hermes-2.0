@@ -1,0 +1,3 @@
+[submodule "escpos-tools"]
+	path = escpos-tools
+	url = ../../receipt-print-hq/escpos-tools
